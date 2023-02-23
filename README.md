@@ -1,4 +1,4 @@
-یک برنامه انجام دادن (فعالیت دلخواه) هستش که میتوانید در آن اضافه کنید و یا حذف کنید و با زدن دکمه تیک اون فعالیت را به رنگ سبز در بیارید (انجام شده) و با زدن دکمه ضربدر در انجام شده در بیارید.
+یک برنامه انجام دادن (فعالیت دلخواه) هستش که میتوانید در آن اضافه کنید و یا حذف کنید و با زدن دکمه تیک اون فعالیت را به رنگ سبز در بیارید (انجام شده) و با زدن دکمه ضربدر از انجام شده در بیارید.
 
 
 this is a program todo (desired activity) in which you can add or delete, and by pressing the tick button, turn that activity into green color (done) and by pressing the cross button, remove it (not done).
